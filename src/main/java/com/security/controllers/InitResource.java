@@ -12,7 +12,7 @@ public class InitResource {
     @GetMapping
     public String init(){
 
-        return "Hello World Securuty";
+        return "Hello World Security";
 
     }
 }
